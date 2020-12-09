@@ -1,0 +1,22 @@
+{
+    "font": [
+        "src/fonts/**"
+    ],
+    "js": [
+        "bower_components/jquery/dist/jquery.min.js",
+        "bower_components/fancybox/dist/jquery.fancybox.js",
+        "bower_components/lazysizes/lazysizes.js",
+        "src/_plugins/mapping-listener.js",
+        "src/_plugins/mapping.js",
+        "src/_plugins/data-bg.js",
+        "bower_components/swiper/dist/js/swiper.js",
+        "src/_plugins/medium-zoom.js",
+        "bower_components/fancybox/dist/jquery.fancybox.min.js"
+    ],
+    "css": [
+        "src/_plugins/font.css",
+        "src/_plugins/remixicon.css",
+        "bower_components/swiper/dist/css/swiper.css",
+        "bower_components/fancybox/dist/jquery.fancybox.css"
+    ]
+}
